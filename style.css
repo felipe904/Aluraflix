@@ -1,12 +1,12 @@
 body {
 color: white;
 background: black;
-  margin:0px
+  margin: 0px
 }
 
 header {
-border-bocttom solid 2px  rgb(42, 122, 288);
-  padding:20px
-  fant-size:32px;
+border-bocttom: solid 2px  rgb(42, 122, 288);
+  padding: 20px
+  fant-size: 32px;
   color: rgb(42, 122, 228);
 }
